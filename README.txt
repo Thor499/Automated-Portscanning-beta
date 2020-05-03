@@ -17,7 +17,6 @@ How to use:
 #5 Once, the scan is complete. It displays "SCAN IS FINISHED".
 #6 Click Ctrl+C to stop the scan and exit the tool.
 
-Created by:
-Lashman .S.L ~alias @Thor499
+Created by: ~alias @Thor499
 Visit or Report an Issue in my GitHUb page at: https://github.com/Thor499/
 Email me at: thorhacks499@gmail.com
